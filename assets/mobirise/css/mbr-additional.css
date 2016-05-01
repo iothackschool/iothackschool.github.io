@@ -1,0 +1,24 @@
+#header4-2 H1 {
+  color: #eb6b56;
+  font-size: 72px;
+}
+#header4-2 P {
+  color: #eb6b56;
+  font-size: 32px;
+  text-align: center;
+}
+#ext_menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-3 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-3 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-3 .mbr-brand__name a {
+  font-size: 19px;
+}
