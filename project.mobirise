@@ -9,8 +9,10 @@
       "title": "Mobirise"
     },
     "publishType": "local",
-    "publishPath": "file:///Users/kwarodom/Downloads/iothackv2",
-    "mcShopcart": "kwarodom@vt.edu"
+    "publishPath": "file:///Users/kwarodom/Downloads/iothackv3",
+    "mcShopcart": "kwarodom@vt.edu",
+    "publishGDriveLocation": "",
+    "publishGDrivePath": "iothackschool"
   },
   "pages": {
     "index.html": {
@@ -106,7 +108,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://www.iothackschool.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoT Hack School</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\">COURSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-20\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.iothackschool.com\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\">COURSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-21\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\" data-toolbar=\"-mbrBtnMove\">SIGNUP</a></li>"
         },
         {
@@ -203,7 +205,7 @@
           "title": "VOLTTRON™ TRAINING",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>VOLTTRON™ is an innovative distributed control and sensing software platform. Its source code has been released, making it possible for researchers and others to use this tool to build applications for more efficiently managing energy use among appliances and devices, including heating, ventilation and air conditioning (HVAC) systems, lighting, electric vehicles and others.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=100&amp;item_name=VOLTTRON&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=100&amp;item_name=VOLTTRON&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"courses.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150&amp;item_name=VOLTTRON&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=150&amp;item_name=VOLTTRON&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"volttron.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -263,7 +265,7 @@
           "title": "BEMOSS™ TRAINING",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Building Energy Management Open Source Software (BEMOSS™) is a software platform that is engineered to improve sensing and control of equipment in small- and medium-sized commercial buildings. BEMOSS™ aims to offer: scalability, robustness, plug and play, open protocol, interoperability, cost-effectiveness, as well as local and remote monitoring. BEMOSS is developed at Advanced Research Institute, Virginia Tech and powered by VOLTTRON™.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=100&amp;item_name=BEMOSS+TRAINING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=100&amp;item_name=BEMOSS+TRAINING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"courses.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150&amp;item_name=BEMOSS+TRAINING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=150&amp;item_name=BEMOSS+TRAINING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"bemoss.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_styles": {
@@ -584,19 +586,53 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://www.iothackschool.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoT Hack School</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\">COURSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-20\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.iothackschool.com\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\">COURSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-21\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\" data-toolbar=\"-mbrBtnMove\">SIGNUP</a></li>"
         },
         {
-          "_name": "features1",
-          "_anchor": "features1-6",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-33",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<p><span style=\"font-family: inherit; line-height: 1.5em;\">VOLTTRON TRAINING</span></p>",
+          "text": "VOLTTRON™ is an innovative distributed control and sensing software platform. Its source code has been released, making it possible for researchers and others to use this tool to build applications for more efficiently managing energy use among appliances and devices, including heating, ventilation and air conditioning (HVAC) systems, lighting, electric vehicles and others.&nbsp;<br><br>THIS TRAINING INCLUDES THE FOLLOWING TOPICS:",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150&amp;item_name=VOLTTRON+TRAINING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=150&amp;item_name=VOLTTRON+TRAINING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"volttron.html#features1-35\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>"
+        },
+        {
+          "_name": "features1",
+          "_anchor": "features1-35",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ea9082",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -611,71 +647,90 @@
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true
+            "showButtons": false
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-94.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+              "src": "https://www.youtube.com/watch?v=IBwtCjiBvR0",
+              "active": true,
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             }
           },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title1": "WHAT IS VOLTTRON™?",
+          "caption1": "VOLTTRON™ is a distributed agent platform developed by Pacific Northwest National Laboratory (PNNL). VOLTTRON™ &nbsp;is designed to run on small-form-factor computers and is capable of interfacing with legacy devices, maintaining security, managing platform resources, and servicing for applications.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-7.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title2": "RESPONSIVE",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "VOLTTRON™ FEATURES",
+          "caption2": "VOLTTRON™ platform enables the deployment of intelligent sensors and controllers in residential/commercial buildings and the smart grid. Distributed agents using peer-to-peer communications in VOLTTRONTM cooperate to bring computation closer to data to enable distributed control decisions and data analysis.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-1.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "title3": "VOLTTRON™ ARCHITECTURE",
+          "caption3": "With respect to VOLTTRON™ architecture and design, the platform consists of communication services (CS), resource manager (RM), authentication and authorization ( A A), directory services (DS), agent instantiation and packaging (AIP) and information exchange bus (IEB) modules. ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-54.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title4": "SUPPORTED PROTOCOLS",
+          "caption4": "VOLTTRON™  includes drivers for interfacing with MODBUS and BACnet based devices. These drivers publish data to VOLTTRON™  enables a device to communicate, be monitored and controlled by an assigned intelligent agent.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -708,50 +763,370 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
-          "_name": "slider2",
+          "_name": "features1",
+          "_anchor": "features1-34",
           "_params": {
-            "autoplay": true,
-            "slides": [
-              {
-                "active": true,
-                "image": "images/slide1.jpg",
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "Slide 1",
-                "showText": true,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "images/slide2.jpg",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Slide 2",
-                "showText": true,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "images/slide3.jpg",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Slide 3",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "showBullets": true
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#52a7ed",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
           },
-          "_anchor": "slider2-8",
-          "articleLayout": true
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-65.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "VOLTTRON™ INSTALLATION",
+          "caption1": "- Install Linux Virtual Machine<br>- Install, configure, and start VOLTTRON™ platform<br>- VOLTTRON™ platform commands<br>- Agent information exchange<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-61.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "VOLTTRON™ AGENT DEVELOPMENT",
+          "caption2": "- Listener/Publisher Agent<br>- Weather Agent<br>- Device Agent<br>- Platform Agent<br>- Multi-node Agent&nbsp;<br>- Demand Response Agent",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-81.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "VOLTTRON™ DEVICE DRIVER DEVELOPMENT",
+          "caption3": "- Driver for BACnet Devices<br>-&nbsp;Driver for Modbus Devices<br>-&nbsp;Driver for Cloud Devices<br>-&nbsp;Driver for LAN Devices<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-27.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "VOLTTRON™ APPLICATION DEVELOPMENT",
+          "caption4": "-&nbsp;Scheduler App<br>- Notification App<br>- Device tampering App<br>- Generic Apps ..",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "features1",
+          "_anchor": "features1-42",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#72a2b1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-99.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "VOLTTRON™ DATABASES",
+          "caption1": "- SQLite<br>- MySQL<br>- sMAP<br>- OpenEIS<br>- PostgreSQL<br>- Apache Cassandra",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-70.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "VOLTTRON™ PLATFORM MANAGEMENT",
+          "caption2": "VOLTTRON™ Management Central (VMC) is web-based user interface (UI) for managing instances of VOLTTRON™ in multiple machines.<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-32.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "VOLTTRON™ &nbsp;DATA VISUALIZATION",
+          "caption3": "-&nbsp;Chart.js<br>- D3.js<br>-&nbsp;NVD3.js<br>- Initial State",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/volttron-1280x720-19.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "VOLTTRON™ USER INTERFACE: WEB/MOBILE APP DEVELOPMENT",
+          "caption4": "- Django<br>- AWS/Heroku<br>- iOS app<br>- Android app",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "header3",
+          "_anchor": "header3-36",
+          "title": "1-DAY VOLTTRON™ TRAINING (6 HOURS)",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "By Warodom Khamphanchai posted May 1, 2016"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-37",
+          "text": "<p>9 - 10 a.m &gt;&gt; &nbsp;Introduction to VOLTTRON™: &nbsp;what is VOLTTRON™?, &nbsp;VOLTTRON™ features, VOLTTRON™ architecture, supported protocols</p><p>10 - 11 a.m &gt;&gt; VOLTTRON™ device driver development : 1 BACnet, 1 Modbus, 1 Cloud, 1 Lan&nbsp;</p><p>11 a.m. - 12 p.m &gt;&gt; &nbsp;VOLTTRON™ device driver development : 1 BACnet, 1 Modbus, 1 Cloud, 1 Lan &nbsp;cont.</p><p>12 p.m. - 13 p.m : Lunch break</p><p>13 p.m. - 14 p.m : VOLTTRON™ agent development : listener agent, device monitor and control agent</p><p>14 p.m. - 15 p.m : VOLTTRON™ application development : scheduler app example</p><p>15 p.m. - 16 p.m : VOLTTRON™ database SQLite (and the others if time allowed)</p><p><br></p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-38",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_params": {
+            "postsNumber": 5
+          },
+          "alias": "facebook-comments",
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-41",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"file:///Users/kwarodom/Library/Application%20Support/Mobirise.com/Mobirise/kwarodom_0040vt_002eedu/addons/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>"
+        },
+        {
+          "_name": "contacts2",
+          "_anchor": "contacts2-20",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "address": "900 N.Glebe Rd. Arlington VA 22203",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "info": "IoT Hack School"
+          },
+          "coord": [
+            38.8808065,
+            -77.11577
+          ],
+          "text1": "<strong>ADDRESS</strong><br>900 N.Glebe Rd.<br>Arlington, VA 22203<br><br>\n<strong>CONTACTS</strong><br>IoT Hack School Team<br>Email: iothackschool@gmail.com<br>\nPhone: +1 (202) 375 1837<br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"><li>LINKS</li><li><a href=\"http://www.iothackschool.com\">IoT Hack School</a></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-11",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 IoT Hack School. Terms of Use | Privacy Policy"
         }
       ]
     },
@@ -804,7 +1179,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://www.iothackschool.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoT Hack School</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\">COURSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-20\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.iothackschool.com\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\">COURSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-21\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\" data-toolbar=\"-mbrBtnMove\">SIGNUP</a></li>"
         },
         {
@@ -839,7 +1214,7 @@
           },
           "title": "BEMOSS TRAINING",
           "text": "Building Energy Management Open Source Software (BEMOSS™) is a software platform that is engineered to improve sensing and control of equipment in small- and medium-sized commercial buildings. BEMOSS™ aims to offer: scalability, robustness, plug and play, open protocol, interoperability, cost-effectiveness, as well as local and remote monitoring. BEMOSS is developed at Advanced Research Institute, Virginia Tech and powered by VOLTTRON™.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"bemoss.html#slider-32\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150&amp;item_name=BEMOSS+TRAINING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=150&amp;item_name=BEMOSS+TRAINING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"bemoss.html#slider-32\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -850,7 +1225,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2016-05-01-19-1600x1080-90.png",
                 "contentAlign": "right",
                 "overlay": false,
@@ -863,24 +1238,68 @@
               },
               {
                 "active": false,
-                "image": "images/slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-05-01-19-1600x1080-39.png",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Slide 2",
+                "title": "PLUG&amp;PLAY",
                 "showText": true,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": true,
+                "text": "BEMOSS™ is designed to automatically discover supported load controllers (including smart thermostats, VAV/RTUs, lighting load controllers and plug load controllers) in commercial buildings.",
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "images/slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-05-01-19-1600x1080-94.png",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Slide 3",
+                "title": "INTEROPERABILITY",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
+                "text": "Currently, BEMOSS supports the following prevalent communication technologies: Ethernet (IEEE 802.3), Serial (RS-485), ZigBee (IEEE 802.15.4) and Wi-Fi (IEEE 802.11); and protocols: BACnet, Modbus, Web, ZigBee API, OpenADR and Smart Energy (SE) protocols.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-05-01-19-1600x1080-94.png",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "COST EFFECTIVENESS",
+                "showText": true,
+                "text": "Implementation of BEMOSS™ is deemed to be cost-effective as it is built upon a robust open source platform that can operate on a low-cost single-board computer, such as Odroid. This feature can contribute to its rapid deployment in small- or medium-sized commercial buildings.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-05-01-19-1600x1080-94.png",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "SCALABLE AND EASE OF DEPLOYMENT",
+                "showText": true,
+                "text": "The BEMOSS™ software platform is designed with a multi-layer architecture where multiple single-board computers hosting BEMOSS™ can communicate among each other and to a master controller to monitor and control a large number of load controllers in a multi-floor and high occupancy building.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-05-01-19-1600x1080-94.png",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "LOCAL AND REMOTE MONITORING AND CONTROL",
+                "showText": true,
+                "text": "BEMOSS™ provides both local and remote monitoring ability with role-based access control.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-05-01-19-1600x1080-94.png",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "SECURITY",
+                "showText": true,
+                "text": "In addition to built-in security features provided by VOLTTRON™ including agent authorization &amp; authentication, encrypted multi-layer communication and agent validation, BEMOSS™ provides additional enhanced security features.",
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
@@ -892,10 +1311,12 @@
           "articleLayout": false,
           "_styles": {
             "H1": {
-              "color": "#eb6b56"
+              "color": "#eb6b56",
+              "text-align": "left"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             }
           }
         },
