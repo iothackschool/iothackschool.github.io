@@ -9,7 +9,7 @@
       "title": "Mobirise"
     },
     "publishType": "local",
-    "publishPath": "file:///Users/kwarodom/Downloads/iothackv3",
+    "publishPath": "file:///Users/kwarodom/Downloads/iothackv4",
     "mcShopcart": "kwarodom@vt.edu",
     "publishGDriveLocation": "",
     "publishGDrivePath": "iothackschool"
@@ -107,7 +107,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://www.iothackschool.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoT Hack School</a>",
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"http://www.iothackschool.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoT Hack School</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.iothackschool.com\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\">COURSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-21\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\" data-toolbar=\"-mbrBtnMove\">SIGNUP</a></li>"
         },
@@ -205,7 +205,7 @@
           "title": "VOLTTRON™ TRAINING",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>VOLTTRON™ is an innovative distributed control and sensing software platform. Its source code has been released, making it possible for researchers and others to use this tool to build applications for more efficiently managing energy use among appliances and devices, including heating, ventilation and air conditioning (HVAC) systems, lighting, electric vehicles and others.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150&amp;item_name=VOLTTRON&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=150&amp;item_name=VOLTTRON&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"volttron.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150&amp;item_name=VOLTTRON+TRAINNING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=150&amp;item_name=VOLTTRON+TRAINNING&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"volttron.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -585,7 +585,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://www.iothackschool.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoT Hack School</a>",
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"http://www.iothackschool.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoT Hack School</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.iothackschool.com\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\">COURSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-21\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\" data-toolbar=\"-mbrBtnMove\">SIGNUP</a></li>"
         },
@@ -1178,7 +1178,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://www.iothackschool.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoT Hack School</a>",
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"http://www.iothackschool.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoT Hack School</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.iothackschool.com\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\">COURSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-21\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form2-12\" data-toolbar=\"-mbrBtnMove\">SIGNUP</a></li>"
         },
